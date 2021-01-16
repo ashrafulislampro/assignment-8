@@ -1,0 +1,14 @@
+.main-header{
+          border: 1px solid crimson;
+          color: black;
+          background-color:  rgb(139, 185, 201);
+          margin: 10px;
+          padding: 10px;
+          border-radius: 6px;
+          box-shadow: 5px 4px;
+          /* width: 700px; */
+}
+.main-header span{
+          font-size: 19px;
+          font-weight: 600;
+}
